@@ -1,27 +1,20 @@
 # Bonjour, je suis Ben Obame 👋
 
-## À propos de moi
-Je suis consultant informatique chez Ob-tech Agency, Actuellement, je me forme en génie logiciel chez ALX Africa pour diversifier mes compétences dans le domaine du software engineering.
+## 💫 About Me / À propos de moi
+Je suis consultant informatique chez Ob-tech Agency. Actuellement, je me forme en génie logiciel chez ALX Africa, cherchant à élargir mes compétences dans ce domaine passionnant.<br><br>I am an IT consultant at Ob-tech Agency. Currently, I am pursuing software engineering at ALX Africa, aiming to broaden my expertise in this exciting field.<br><br>- 🔭 Je travaille actuellement sur ma formation en génie logiciel.<br>- 🌱 J'apprends divers langages de programmation et technologies, notamment le shell, C, Python, et SQL.<br>- 👯 Je cherche à collaborer sur des projets innovants en informatique et cybersécurité.<br>- 📫 Comment me joindre : [obameben@outlook.com](mailto:obameben@outlook.com)<br><br>- 🔭 Currently focusing on my software engineering studies.<br>- 🌱 Learning various programming languages and technologies, including Shell, C, Python, and SQL.<br>- 👯 Looking to collaborate on innovative projects in IT and cybersecurity.<br>- 📫 How to reach me: [obameben@outlook.com](mailto:obameben@outlook.com)
 
-Avec une expérience variée, allant de l'assistance IT à des projets freelance de sécurité réseau et d'archivage numérique, je suis toujours à la recherche de défis qui me permettront de renforcer et d'étendre mes compétences en informatique.
+## Compétences / Skills
+- **Systèmes d'exploitation / Operating Systems:** Windows Server, Debian, Ubuntu, CentOS
+- **Virtualisation:** VMware, VirtualBox
+- **Programmation / Programming:** Shell, C, Python, SQL
+- **Outils de collaboration / Collaboration Tools:** OneDrive, Zoom, Slack
+- **Cybersécurité / Cybersecurity:** Fondamentaux et meilleures pratiques / Fundamentals and Best Practices
 
-- 🔭 Actuellement, je me concentre sur ma formation en génie logiciel.
-- 🌱 J'apprends divers langages de programmation et technologies, y compris le shell, C, Python, et SQL.
-- 👯 Je cherche à collaborer sur des projets innovants dans le domaine de l'informatique et de la cybersécurité.
-- 📫 Comment me joindre : [obameben@outlook.com](mailto:obameben@outlook.com)
+## Langues / Languages
+- Français / French (Courant / Fluent)
+- Anglais / English (Professionnel / Professional)
 
-## Compétences
-- **Systèmes d'exploitation :** Windows Server, Debian, Ubuntu, CentOS
-- **Virtualisation :** VMware, VirtualBox
-- **Programmation :** Shell, C, Python, SQL
-- **Outils de collaboration :** OneDrive, Zoom, Slack
-- **Cybersécurité :** Fondamentaux et meilleures pratiques
-
-## Langues
-- Français (Courant)
-- Anglais (Professionnel)
-
-## Contactez-moi
+## Contactez-moi / Contact me
 - LinkedIn : [Ben Obame](www.linkedin.com/in/ben-obame)
 
 # 💻 Tech Stack:
