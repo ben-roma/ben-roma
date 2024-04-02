@@ -21,10 +21,6 @@ Avec une expérience variée, allant de l'assistance IT à des projets freelance
 - Français (Courant)
 - Anglais (Professionnel)
 
-## Statistiques GitHub
-
-[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=benobame&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Contactez-moi
 - LinkedIn : [Ben Obame](www.linkedin.com/in/ben-obame)
 
